@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kyauzu.github.io/PwP/sitemap.PwP.gz
